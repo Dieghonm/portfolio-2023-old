@@ -10,6 +10,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^5.3.10",
+    "styled-icons": "^10.47.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -17,6 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "cypress": "npx cypress oppen",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "publicar": "npm run build && gh-pages -d build && git add ."
@@ -40,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "cypress": "^12.5.1",
     "gh-pages": "^5.0.0"
   }
 }
