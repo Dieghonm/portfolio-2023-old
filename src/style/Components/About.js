@@ -9,6 +9,8 @@ export const Div = styled.div`
   h3 {
     margin: 150px 20px 10px 50px;
     font-family: Apple Chancery, cursive;
+    /* https://www.w3.org/Style/Examples/007/fonts.pt_BR.html
+    https://www.w3schools.com/cssref/tryit.php?filename=trycss_font-family */
   }
   
   h1 {
