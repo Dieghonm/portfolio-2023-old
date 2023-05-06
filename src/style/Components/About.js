@@ -6,7 +6,7 @@ export const Div = styled.div`
   padding: 5px;
   
   h3 {
-    margin: 130px 20px 10px 50px;
+    margin: 110px 20px 10px 50px;
     font-family: Apple Chancery, cursive;
     /* https://www.w3.org/Style/Examples/007/fonts.pt_BR.html
     https://www.w3schools.com/cssref/tryit.php?filename=trycss_font-family */
@@ -23,7 +23,7 @@ export const Div = styled.div`
   }
 
   h5 {
-    margin: 50px 10px 1px 120px;
+    margin: 30px 10px 1px 120px;
   }
   
   span {

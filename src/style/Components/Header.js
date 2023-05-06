@@ -15,19 +15,20 @@ export const Header = styled.header`
     display: flex;
   }
 
-  p {
+  a {
+    text-decoration: none;
     color: black;
-    margin: 10px;
+    margin: 30px 20px 30px 0px;
   }
 `
 
 export const FotoImg = styled.img`
-  height: 100px;
+  height: 80px;
   border-radius: 30%;
-  margin: 5px;
+  margin: 10px 10px;
 `
 
 export const Name = styled.h2`
   color: black;
-  margin: 25px;
+  margin: 30px;
 `

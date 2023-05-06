@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { Colors } from './Colors'
 
 export const projectsDiv = styled.div`
-  scroll-margin-top: 140px;
+  scroll-margin-top: 120px;
   h2 {
     margin: 30px 20px 0px 60px;
   }
