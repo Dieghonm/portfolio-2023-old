@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Colors } from './Colors'
 
 export const MainDiv = styled.div`
   h4 {
@@ -8,11 +9,11 @@ export const MainDiv = styled.div`
     justify-content: space-around;
     display: flex;
     flex-direction: row;
-    background-color: #556380;
+    background-color: ${Colors.quart};;
     width: 100%;
     flex-wrap: wrap;
     svg {
-      color: #332F27;
+      color: ${Colors.ter};;
       width: 70px;
       margin: 20px;
       

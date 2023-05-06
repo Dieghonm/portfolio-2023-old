@@ -1,12 +1,15 @@
 import styled from "styled-components";
+import { Colors } from './Colors'
 
 export const Header = styled.header`
   display: flex;
-  background-color: #313640;
+  background-color: ${Colors.ter};
   justify-content: space-between;
   width: 100%;
   position: fixed;
   top: 0%;
+  border-bottom: 2px solid black;
+  z-index: 10;
   
   div {
     display: flex;

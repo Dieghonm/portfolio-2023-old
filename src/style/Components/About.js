@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Colors } from './Colors'
 
 export const Div = styled.div`
   /* margin-top: 150px;
@@ -28,8 +29,8 @@ export const Div = styled.div`
   }
   
   span {
-    background-color: #93A2BF;
-    color: #272B33;
+    background-color: ${Colors.ter};
+    color: ${Colors.black};
     display: flex;
     margin: 1px 100px 1px 100px;
     padding: 5px;
