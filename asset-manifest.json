@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-2023/static/css/main.76cde99b.css",
-    "main.js": "/portfolio-2023/static/js/main.938de993.js",
+    "main.css": "/portfolio-2023/static/css/main.b5ec89a8.css",
+    "main.js": "/portfolio-2023/static/js/main.39979523.js",
     "static/js/787.755d6b54.chunk.js": "/portfolio-2023/static/js/787.755d6b54.chunk.js",
     "static/media/AventurasFantasticas.png": "/portfolio-2023/static/media/AventurasFantasticas.82cd1939d968760face9.png",
     "static/media/perfil.jpeg": "/portfolio-2023/static/media/perfil.93922251a022d78dd59c.jpeg",
     "static/media/foto.jpeg": "/portfolio-2023/static/media/foto.7099bd1ab1933f53b360.jpeg",
+    "static/media/Pokedex.png": "/portfolio-2023/static/media/Pokedex.26dd346613aedd7c82d1.png",
     "static/media/FacaFaquinha.png": "/portfolio-2023/static/media/FacaFaquinha.076d8aa4e52cd0cc049f.png",
+    "static/media/GeradorDeQRCode.png": "/portfolio-2023/static/media/GeradorDeQRCode.85a8f5dbb8ef0414916a.png",
     "index.html": "/portfolio-2023/index.html",
-    "main.76cde99b.css.map": "/portfolio-2023/static/css/main.76cde99b.css.map",
-    "main.938de993.js.map": "/portfolio-2023/static/js/main.938de993.js.map",
+    "main.b5ec89a8.css.map": "/portfolio-2023/static/css/main.b5ec89a8.css.map",
+    "main.39979523.js.map": "/portfolio-2023/static/js/main.39979523.js.map",
     "787.755d6b54.chunk.js.map": "/portfolio-2023/static/js/787.755d6b54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76cde99b.css",
-    "static/js/main.938de993.js"
+    "static/css/main.b5ec89a8.css",
+    "static/js/main.39979523.js"
   ]
 }
