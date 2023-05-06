@@ -25,9 +25,9 @@ import * as S from '../style/Components/Skills'
 
 function Skills() {
   return (
-    <S.MainDiv>
+    <S.MainDiv id="SkillsDiv">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
-      <h4>Skills</h4>
+      <h2>Skills</h2>
       <span>
         <div>
           <Linux />

@@ -22,7 +22,7 @@ function Contact() {
   };
 
   return (
-    <S.ContactDiv>
+    <S.ContactDiv id="ContactDiv">
       <a href="https://www.linkedin.com/in/diegho-neves/"><Linkedin /></a>
       <a href="https://github.com/Dieghonm"><Github /></a>
       <a onClick={() => setShowEmail(!showEmail)}><Email /></a>

@@ -2,8 +2,9 @@ import styled from "styled-components";
 import { Colors } from './Colors'
 
 export const MainDiv = styled.div`
-  h4 {
-    margin: 50px 20px 10px 150px;
+  scroll-margin-top: 140px;
+  h2 {
+    margin: 30px 20px 20px 60px;
   }
   span {
     justify-content: space-around;

@@ -9,10 +9,10 @@ function Header() {
         <S.Name>Diegho Moraes</S.Name>
       </div>
       <div>
-        <p>Sobre</p>
-        <p>Skills</p>
-        <p>Projetos</p>
-        <p>Contato</p>
+        <a href="#AboutDiv">Sobre</a>
+        <a href="#SkillsDiv">Skills</a>
+        <a href="#ProjectsDiv">Projetos</a>
+        <a href="#ContactDiv">Contato</a>
       </div>
     </S.Header>
   )

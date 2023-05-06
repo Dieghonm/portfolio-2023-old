@@ -2,13 +2,11 @@ import styled from "styled-components";
 import { Colors } from './Colors'
 
 export const Div = styled.div`
-  /* margin-top: 150px;
-  padding-top: 500px; */
   text-align: left;
   padding: 5px;
   
   h3 {
-    margin: 150px 20px 10px 50px;
+    margin: 130px 20px 10px 50px;
     font-family: Apple Chancery, cursive;
     /* https://www.w3.org/Style/Examples/007/fonts.pt_BR.html
     https://www.w3schools.com/cssref/tryit.php?filename=trycss_font-family */

@@ -3,7 +3,7 @@ import * as S from '../style/Components/About'
 
 function About() {
   return (
-    <S.Div>
+    <S.Div id='AboutDiv'>
       <h3>Olá, eu sou o Diegho</h3>
       <h1>E eu sou um criador e caçador de <i>bugs</i></h1>
       <h4>Sou programador e desenvolvedor web, meu trabalho e criar coisas para a web, trabalho com <i>front-end</i> e <i>back-end</i>, e agora estou aprendendo dados.</h4>
